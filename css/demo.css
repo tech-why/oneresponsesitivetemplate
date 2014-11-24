@@ -1,0 +1,39 @@
+/* ==============================================================
+
+Template name : Rinna flat and responsive onepage template
+Categorie : One page template
+Author : Nce18cex
+Version : 1.0.0
+Created : 19 June 2013
+Last update : 19 June 2013
+
+-----------------------------------------------------------------
+CSS structure
+-----------------------------------------------------------------
+*/
+body{
+	background:#e2e8e6;
+	color:#2f2f2f;
+}
+
+header{
+	background:#e55237;
+	color:#fff;
+	padding:60px 0 60px 0;
+	text-align:center;
+}
+
+header .logo{
+	margin:0 0 40px 0;
+}
+
+.demo{
+	background:url("../img/demo-sparator-head.png"/*tpa=http://99webpage.com/theme-review/html/rinna/img/demo-sparator-head.png*/) no-repeat top center;
+	padding:40px 0 40px 0;
+	height:100%;
+	width:100%;
+}
+
+.demo h5{
+	font-family: 'open_sansregular';
+}
