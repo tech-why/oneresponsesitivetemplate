@@ -45,8 +45,6 @@ CSS structure
 /*
 Fontawesome
 =========================== */
-@import url("font-awesome.css"/*tpa=http://99webpage.com/theme-review/html/rinna/css/font-awesome.css*/);
-@import url("icon-set.css"/*tpa=http://99webpage.com/theme-review/html/rinna/css/icon-set.css*/);
 
 /*
 Typography
@@ -118,14 +116,14 @@ body{
 	position:relative;
 	overflow:hidden;
 	width:100%;
-	background:#fff url("../img/page-section-bg.png"/*tpa=http://99webpage.com/theme-review/html/rinna/img/page-section-bg.png*/) no-repeat 40px 0;
+	background:#fff url("../img/page-section-bg.png") no-repeat 40px 0;
 	margin:0;
 	padding:63px 0 60px 0;
 }
 
 .page-contain{
 	padding: 60px 0 40px 0;	
-	background:#fff url("../img/page-section-bg.png"/*tpa=http://99webpage.com/theme-review/html/rinna/img/page-section-bg.png*/) no-repeat 10% 0;
+	background:#fff url("../img/page-section-bg.png") no-repeat 10% 0;
 	margin:0;
 }
 
@@ -198,7 +196,7 @@ body{
 Parallax
 =========================== */
 .parallax{
-	background:url("../img/main-bg.jpg"/*tpa=http://99webpage.com/theme-review/html/rinna/img/main-bg.jpg*/) 0 0 no-repeat fixed;
+	background:url("../img/main-bg.jpg") 0 0 no-repeat fixed;
 	color: #fff;
 	height: 654px;
 	margin: 0;
@@ -206,7 +204,7 @@ Parallax
 }
 
 .parallax .main-image {
-	background: url("../img/main-image.png"/*tpa=http://99webpage.com/theme-review/html/rinna/img/main-image.png*/) 100% 0 no-repeat fixed;
+	background: url("../img/main-image.png") 100% 0 no-repeat fixed;
 	height: 654px;
 	margin: 0 auto;
 	padding: 0;
@@ -217,7 +215,7 @@ Parallax
 
 
 .main-pattern {
-	background: url("../img/pattern.png"/*tpa=http://99webpage.com/theme-review/html/rinna/img/pattern.png*/) 0 0 repeat fixed;
+	background: url("../img/pattern.png") 0 0 repeat fixed;
 	height: 450px;
 	padding: 0;
 	position: absolute;
@@ -230,7 +228,7 @@ Parallax
 }
 
 .parallax-bg1{
-	background:url("../img/parallax-bg1.jpg"/*tpa=http://99webpage.com/theme-review/html/rinna/img/parallax-bg1.jpg*/) 0 0 no-repeat fixed;
+	background:url("../img/parallax-bg1.jpg") 0 0 no-repeat fixed;
 	height: 330px;
 }
 
@@ -239,7 +237,7 @@ Parallax
 }
 
 .parallax-bg2{
-	background:url("../img/parallax-bg2.jpg"/*tpa=http://99webpage.com/theme-review/html/rinna/img/parallax-bg2.jpg*/) 0 0 no-repeat fixed;
+	background:url("../img/parallax-bg2.jpg") 0 0 no-repeat fixed;
 	height: 490px;
 }
 
@@ -248,7 +246,7 @@ Parallax
 }
 
 .parallax-bg3{
-	background:url("../img/parallax-bg3.jpg"/*tpa=http://99webpage.com/theme-review/html/rinna/img/parallax-bg3.jpg*/) 0 0 no-repeat fixed;
+	background:url("../img/parallax-bg3.jpg") 0 0 no-repeat fixed;
 	height: 450px;
 }
 
